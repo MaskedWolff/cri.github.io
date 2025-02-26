@@ -34,8 +34,8 @@ https://mix.drmlive.au/mix/icctv2.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DgH8DPF7/images.jpg" group-title="𝐈𝐂𝐂 𝐂𝐑𝐈𝐂 𝟐𝟎𝟐𝟓",ICC LIVESTREAM 3
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1740507836:KeyName=prod_live_events:Signature=XyO1jzxFblB8Zz_ApFsGwwUOQWwC26j_8OOO-mYcsaAeLeW3AhxD2It9wW3w044IZiiGOM7O9I2b2sJGF9FdCQ"}
-https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8|cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1740507836:KeyName=prod_live_events:Signature=XyO1jzxFblB8Zz_ApFsGwwUOQWwC26j_8OOO-mYcsaAeLeW3AhxD2It9wW3w044IZiiGOM7O9I2b2sJGF9FdCQ
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1740593940:KeyName=prod_live_events:Signature=V9S6QrhVyjMhGjouY8rOaUejASGzwvRQs-ZQJE1psroimYvTIsLZz8DDbm61PsbmFIlgkXkwW5B1wNhV7OSQAA"}
+https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8|cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1740593940:KeyName=prod_live_events:Signature=V9S6QrhVyjMhGjouY8rOaUejASGzwvRQs-ZQJE1psroimYvTIsLZz8DDbm61PsbmFIlgkXkwW5B1wNhV7OSQAA
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -82,28 +82,27 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/o
 𝐒𝐓𝐀𝐑 𝐒𝐏𝐎𝐑𝐓𝐒 TATAPLAY
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://pstlive.run.place/19vhhvuw/pstlive_78.key
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 group-title="𝐒𝐓𝐀𝐑 𝐒𝐏𝐎𝐑𝐓𝐒" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",Star Sports 1 HD
-#EXTHTTP:{"origin":"https://watch.tataplay.com", "referer":"https://watch.tataplay.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36
-http://pstlive.run.place/19vhhvuw/pstlive_78.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36"&Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
+#KODIPROP:inputstream.adaptive.license_key=https://playflix.icu/T91/key.php?id=78
+#EXTINF:-1 tvg-id="ts78" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="𝐒𝐓𝐀𝐑 𝐒𝐏𝐎𝐑𝐓𝐒",Star Sports 1 HD
+#EXTVLCOPT:http-user-agent=Playflix/5.0
+https://playflix.icu/T91/mpd.php?id=78|user-agent=Playflix/5.0
+
+#EXTINF:-1 tvg-id="STAR.SPORTS.1.HINDI.in" group-title="𝐒𝐓𝐀𝐑 𝐒𝐏𝐎𝐑𝐓𝐒" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/star-sports-1-hindi-in.png",Star Sports Hindi ddlive
+https://ddy6new.iosplayer.ru/ddy6/premium268/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://newembedplay.xyz
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://crichd.space/TATAPLAY/keys.php?id=235
-#EXTHTTP:{"origin":"https://watch.tataplay.com", "referer":"https://watch.tataplay.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="𝐒𝐓𝐀𝐑 𝐒𝐏𝐎𝐑𝐓𝐒" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png", Star Sports 2 HD
-https://crichd.space/TATAPLAY/manifest.mpd?id=235|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"&Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://playflix.icu/T91/key.php?id=235
+#EXTINF:-1 tvg-id="ts235" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="𝐒𝐓𝐀𝐑 𝐒𝐏𝐎𝐑𝐓𝐒",Star Sports 2 HD
+#EXTVLCOPT:http-user-agent=Playflix/5.0
+https://playflix.icu/T91/mpd.php?id=235|user-agent=Playflix/5.0
 
 ⭐️𝐒𝐓𝐀𝐑 𝐒𝐏𝐎𝐑𝐓𝐒⭐️
 
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="𝐒𝐓𝐀𝐑 𝐒𝐏𝐎𝐑𝐓𝐒 𝐈𝐏𝐓𝐕",Star Sports 1HD Hindi
 http://103.115.126.26:8000/play/a083/index.m3u8
 http://app.luckonline.eu:80/live/Sohail02/myQYkEntaxuZ/1065.ts
-
-#EXTINF:-1 tvg-id="STAR.SPORTS.1.HINDI.in" group-title="𝐒𝐓𝐀𝐑 𝐒𝐏𝐎𝐑𝐓𝐒 𝐈𝐏𝐓𝐕" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/star-sports-1-hindi-in.png",Star Sports Hindi ddlive
-https://ddy6new.iosplayer.ru/ddy6/premium268/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://newembedplay.xyz
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BLBzyhW/image-Content-8301-j7hc0820-m1.webp" group-title="𝐒𝐓𝐀𝐑 𝐒𝐏𝐎𝐑𝐓𝐒 𝐈𝐏𝐓𝐕",Star Sports 1HD ENG
 http://103.115.126.26:8000/play/a03l/index.m3u8
