@@ -100,7 +100,7 @@ https://playflix.icu/T91/mpd.php?id=235|user-agent=Playflix/5.0
 
 ⭐️𝐒𝐓𝐀𝐑 𝐒𝐏𝐎𝐑𝐓𝐒⭐️
 
-#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="𝐒𝐓𝐀𝐑 𝐒𝐏𝐎𝐑𝐓𝐒 𝐈𝐏𝐓𝐕",Star Sports 1HD Hindi
+#EXTINF:-1 tvg-logo="https://shorturl.at/G5GR9" group-title="𝐒𝐓𝐀𝐑 𝐒𝐏𝐎𝐑𝐓𝐒 𝐈𝐏𝐓𝐕",Star Sports 1HD Hindi
 http://103.115.126.26:8000/play/a083/index.m3u8
 http://app.luckonline.eu:80/live/Sohail02/myQYkEntaxuZ/1065.ts
 
