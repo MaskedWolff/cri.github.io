@@ -78,6 +78,9 @@ https://mix.drmlive.au/mix/star-24.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4n6t4vR4/images-1.png" group-title="𝐏𝐀𝐊 𝐒𝐏𝐎𝐑𝐓𝐒",MyCo Sports 25fps
+https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wp5mVrHp/images-2.jpg" group-title="𝐏𝐀𝐊 𝐒𝐏𝐎𝐑𝐓𝐒", Geo Sports 30fps
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7641daa5bacfbb61936c40a221c9e78e&key=5732dd242f28338e909dc06cb1a1e5a2
@@ -388,3 +391,9 @@ https://la.drmlive.au/tp/sling-672.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=159a2b4e1d2d7f16892d35d935a2fb34:07809840dd0f511221ca78459167d1b3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zWTz0Pxb/images.png" group-title="𝐅𝐀𝐍𝐂𝐎𝐃𝐄 𝐅𝐄𝐄𝐃",FanCode
+https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/gdhz5mhnyu/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff2/cenc.mpd
