@@ -17,23 +17,25 @@ https://astrocribypaxx.vercel.app/2504/default_primary.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://playflix.icu/Public/keys.php?id=24&start=20250308060000&end=20250308070000
+#KODIPROP:inputstream.adaptive.license_key=https://playflix.icu/Validity/keys.php?id=78&token=5e8b66d743515074a13b39d30e66a9f6575f9d8ce5b023144c8a15f3e2ae2970&expiry=1742362570
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="STAR.SPORTS.1.HINDI.in" group-title="𝐒𝐓𝐀𝐑 𝐒𝐏𝐎𝐑𝐓𝐒" tvg-logo="https://shorturl.at/G5GR9",Star Sports 1HD
-https://playflix.icu/Public/manifest.php?id=24|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36"&Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://playflix.icu/Public/keys.php?id=78&start=20250308060000&end=20250308070000
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="ts78" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="𝐒𝐓𝐀𝐑 𝐒𝐏𝐎𝐑𝐓𝐒",Star Sports 1HD ENG
-https://playflix.icu/Public/manifest.php?id=78|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36"&Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
+#EXTINF:-1 tvg-id="ts78" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="𝐒𝐓𝐀𝐑 𝐒𝐏𝐎𝐑𝐓𝐒" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",Star Sports 1HD
+https://playflix.icu/Validity/manifest.php?id=78&token=5e8b66d743515074a13b39d30e66a9f6575f9d8ce5b023144c8a15f3e2ae2970&expiry=1742362570|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36"&Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://playflix.icu/Public/keys.php?id=235&start=20250308060000&end=20250308070000
+#KODIPROP:inputstream.adaptive.license_key=https://playflix.icu/Validity/keys.php?id=235&token=686211ea19858a10f2a36f9633d2e1d046697b2076aaf16b13acae1151ff6d3a&expiry=1742362570
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="ts235" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="𝐒𝐓𝐀𝐑 𝐒𝐏𝐎𝐑𝐓𝐒",Star Sports 2HD ENG
-https://playflix.icu/Public/manifest.php?id=235|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36"&Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
+#EXTINF:-1 tvg-id="ts235" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="𝐒𝐓𝐀𝐑 𝐒𝐏𝐎𝐑𝐓𝐒" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png",Star Sports 2 HD Eng
+https://playflix.icu/Validity/manifest.php?id=235&token=686211ea19858a10f2a36f9633d2e1d046697b2076aaf16b13acae1151ff6d3a&expiry=1742362570|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36"&Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
+
+#EXTINF:-1 group-title="𝐒𝐓𝐀𝐑 𝐒𝐏𝐎𝐑𝐓𝐒" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png",Star Sports 2 HD Hindi
+https://airplay.bgrid.in/IPTVS/live/voot/1033.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://playflix.icu/Validity/keys.php?id=24&token=6fda71dc996792a15b29161af7231fa767a8d09c0873572f0aa04d04aa14d5ae&expiry=1742362570
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="ts24" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="𝐒𝐓𝐀𝐑 𝐒𝐏𝐎𝐑𝐓𝐒" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",Star Sports 1 Hindi HD
+https://playflix.icu/Validity/manifest.php?id=24&token=6fda71dc996792a15b29161af7231fa767a8d09c0873572f0aa04d04aa14d5ae&expiry=1742362570|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36"&Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
 
 #EXTINF:-1 tvg-id="STAR.SPORTS.1.HINDI.in" group-title="𝐒𝐓𝐀𝐑 𝐒𝐏𝐎𝐑𝐓𝐒" tvg-logo="https://shorturl.at/G5GR9",Star Sports 1HD Hindi ddlive
 https://ddy6new.koskoros.ru/ddy6/premium268/mono.m3u8|Referer=https://newzar.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://newzar.xyz
@@ -106,10 +108,10 @@ https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd
 https://dokko1new.koskoros.ru/dokko1/premium65/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz
 
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" group-title="𝐒𝐊𝐘 𝐒𝐏𝐎𝐑𝐓𝐒 𝐔𝐊" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-mix-uk.png",Sky Sports MIX
-https://ddy6new.iosplayer.ru/ddy6/premium449/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://newembedplay.xyz
+https://nix1-dc4new.koskoros.ru/nix1-dc4/skymix/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" group-title="𝐒𝐊𝐘 𝐒𝐏𝐎𝐑𝐓𝐒 𝐔𝐊" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-main-event-uk.png",Sky Sports Main Event
-https://zekonew.koskoros.ru/zeko/premium38/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz
+https://top2new.koskoros.ru/top2/eplayerskymain2/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
 #EXTINF:-1 tvg-id="SkySp.F1.uk" group-title="𝐒𝐊𝐘 𝐒𝐏𝐎𝐑𝐓𝐒 𝐔𝐊" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-f1-uk.png",Sky Sports F1
 https://windnew.koskoros.ru/wind/premium60/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz
@@ -149,7 +151,7 @@ https://dokko1new.koskoros.ru/dokko1/premium596/mono.m3u8|Referer=https://pkpaki
 ■■𝐅𝐎𝐗 𝐒𝐏𝐎𝐑𝐓𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋𝐒■■
 
 #EXTINF:-1 tvg-id="FoxCricket.au" group-title="𝐅𝐎𝐗 𝐒𝐏𝐎𝐑𝐓𝐒 𝐀𝐔" tvg-logo="https://i.ibb.co/hJDsR3fW/images-3.jpg",Fox Cricket 501
-https://ddy6new.iosplayer.ru/ddy6/premium369/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://newembedplay.xyz
+https://nix1-dc4new.koskoros.ru/nix1-dc4/fox501/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
 #EXTINF:-1 tvg-id="FoxSports505.au" group-title="𝐅𝐎𝐗 𝐒𝐏𝐎𝐑𝐓𝐒 𝐀𝐔" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-505.png",Fox Sports 505 
 https://windnew.koskoros.ru/wind/premium823/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz
@@ -158,7 +160,7 @@ https://windnew.koskoros.ru/wind/premium823/mono.m3u8|Referer=https://pkpakiplay
 ⭐️𝐒𝐔𝐏𝐄𝐑𝐒𝐏𝐎𝐑𝐓𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋𝐒⭐️
 
 #EXTINF:-1 tvg-id="test" group-title="𝐒𝐔𝐏𝐄𝐑𝐒𝐏𝐎𝐑𝐓𝐒" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-cricket.png",SuperSport Cricket
-https://zekonew.koskoros.ru/zeko/premium368/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz
+https://newwdaddycdn.nayeem-parvez.workers.dev/368.m3u8
 
 #EXTINF:-1 group-title="𝐒𝐔𝐏𝐄𝐑𝐒𝐏𝐎𝐑𝐓𝐒" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-action.png",Super Sport Action
 #EXTVLCOPT:http-referrer=https://topembed.pw/
@@ -269,17 +271,6 @@ https://jmp2.uk/sam-US2900017P2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
-●●𝐒𝐏𝐎𝐑𝐓𝐒 𝟏𝟖●●
-
-#EXTINF:-1 group-title="𝐒𝐏𝐎𝐑𝐓𝐒 𝟏𝟖" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sports18_tray-1693930594270.jpg",SPORTS 18 1HD
-https://airplay.bgrid.in/IPTVS/live/voot/1033.m3u8
-
-#EXTINF:-1 group-title="𝐒𝐏𝐎𝐑𝐓𝐒 𝟏𝟖" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png",Sports18 1
-https://qualifying-tr-incidence-race.trycloudflare.com//app/live.php?id=1985
-
-#EXTINF:-1  group-title="𝐒𝐏𝐎𝐑𝐓𝐒 𝟏𝟖" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png",Sports18 Khel
-https://qualifying-tr-incidence-race.trycloudflare.com//app/live.php?id=1998
-
 
 ###𝐓-𝐒𝐏𝐎𝐑𝐓𝐒 𝐍𝐄𝐓𝐖𝐎𝐑𝐊###
 
@@ -299,7 +290,7 @@ https://live.tsports.com/mobile_hls/tsports_live_3/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PEUIrzSIRBB/XgJqT9axbg", "kid":"GmVRiatcSesjUwjCsannEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="beINSport" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_BEINS.png" group-title="𝐁𝐄𝐈𝐍 𝐒𝐏𝐎𝐑𝐓𝐒" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144",beIN 1
+#EXTINF:-1 tvg-id="beINSport" tvg-logo="https://spoo.me/Bein1" group-title="𝐁𝐄𝐈𝐍 𝐒𝐏𝐎𝐑𝐓𝐒",beIN 1
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
 
@@ -307,19 +298,46 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UQKxKqx3VsZdy0ahAdlg0w", "kid":"OcF1WB4jfv+VWWB+ubI8EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="beINSports2" tvg-name="beIN Sports 2 HD" group-title="𝐁𝐄𝐈𝐍 𝐒𝐏𝐎𝐑𝐓𝐒" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_BEINS.png",beIN 2
+#EXTINF:-1 tvg-id="beINSports2" tvg-name="beIN Sports 2 HD" group-title="𝐁𝐄𝐈𝐍 𝐒𝐏𝐎𝐑𝐓𝐒", tvg-logo="https://spoo.me/Bein2",beIN 2
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BCohvyNspymx40PtbgpjNw", "kid":"IMiE747Saydi+LGnjy0ZEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="beINSports3" tvg-name="beIN Sports 3 HD" group-title="𝐁𝐄𝐈𝐍 𝐒𝐏𝐎𝐑𝐓𝐒" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_BEINS.png",beIN 3
+#EXTINF:-1 tvg-id="beINSports3" tvg-name="beIN Sports 3 HD" group-title="𝐁𝐄𝐈𝐍 𝐒𝐏𝐎𝐑𝐓𝐒", tvg-logo="https://spoo.me/Bein3",beIN 3
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 
 #EXTINF:-1 tvg-id="5df975e2b27cf5000921c102" tvg-name="beIN SPORTS XTRA" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="𝐁𝐄𝐈𝐍 𝐒𝐏𝐎𝐑𝐓𝐒" tvg-chno="2910", beIN SPORTS XTRA
 https://stitcher.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e1c7bf36-f63c-11ef-9d7f-ba2386732ca2
+
+#############**𝐁𝐄𝐈𝐍 𝐀𝐌𝐀𝐙𝐎𝐍**###############
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f959dcdd1ca8c89658cd651ed36e2851:aa4cf56ce7c522a9e6582c42537be381
+#EXTINF:-1 tvg-logo="https://spoo.me/Bein1" group-title="𝐁𝐄𝐈𝐍 𝐀𝐌𝐀𝐙𝐎𝐍",beIN Sports 1 Amazon
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"}
+https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/pwdvd9fm5u/out/v1/5e22845dab3648b8a7033fd5923d62d1/cenc.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1
+#EXTINF:-1 group-title="𝐁𝐄𝐈𝐍 𝐀𝐌𝐀𝐙𝐎𝐍", tvg-logo="https://spoo.me/Bein2",beIN Sports 2 Amazon
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"}
+https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
+#EXTINF:-1 group-title="𝐁𝐄𝐈𝐍 𝐀𝐌𝐀𝐙𝐎𝐍", tvg-logo="https://spoo.me/Bein3",beIN Sports 3 Amazon
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"}
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd
+
 
 ###𝐒𝐏𝐎𝐓𝐕 𝐒𝐏𝐎𝐑𝐓𝐒###
 
@@ -327,17 +345,17 @@ https://stitcher.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dYgj5Oq7bkyMA20HPbRrjA", "kid":"wOGASqHZ/ZxBxBvw9hpfEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV HD" group-title="𝐒𝐏𝐎𝐓𝐕 𝐒𝐏𝐎𝐑𝐓𝐒" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Spotv.png",816 SPOTV 1
+#EXTINF:-1 group-title="𝐒𝐏𝐎𝐓𝐕 𝐒𝐏𝐎𝐑𝐓𝐒", tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Spotv.png", SPOTV 1
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
-#EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV HD" group-title="𝐒𝐏𝐎𝐓𝐕 𝐒𝐏𝐎𝐑𝐓𝐒" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Spotv.png",810 SPOTV 2
+#EXTINF:-1 group-title="𝐒𝐏𝐎𝐓𝐕 𝐒𝐏𝐎𝐑𝐓𝐒", tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Spotv.png", SPOTV 2
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
 
-#EXTINF:-1 group-title="𝐓𝐍𝐓 𝐔𝐊" tvg-id="tnt100a" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-1-uk.png",TNT SPORTS 1
+#EXTINF:-1 group-title="𝐓𝐍𝐓 𝐔𝐊", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-1-uk.png",TNT SPORTS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -346,7 +364,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 
-#EXTINF:-1 group-title="𝐓𝐍𝐓 𝐔𝐊" tvg-id="tnt200a" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-2-uk.png",TNT SPORTS 2
+#EXTINF:-1 group-title="𝐓𝐍𝐓 𝐔𝐊", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-2-uk.png",TNT SPORTS 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -355,7 +373,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/o
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 
-#EXTINF:-1 group-title="𝐓𝐍𝐓 𝐔𝐊" tvg-id="tnt300a" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-3-uk.png",TNT SPORTS 3
+#EXTINF:-1 group-title="𝐓𝐍𝐓 𝐔𝐊", -logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-3-uk.png",TNT SPORTS 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -364,7 +382,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/o
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
 
-#EXTINF:-1 group-title="𝐓𝐍𝐓 𝐔𝐊" tvg-id="tnt400aa" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-4-uk.png",TNT SPORTS 4
+#EXTINF:-1 group-title="𝐓𝐍𝐓 𝐔𝐊", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-4-uk.png",TNT SPORTS 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -397,3 +415,5 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesu
 #KODIPROP:inputstream.adaptive.license_key=159a2b4e1d2d7f16892d35d935a2fb34:07809840dd0f511221ca78459167d1b3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zWTz0Pxb/images.png" group-title="𝐅𝐀𝐍𝐂𝐎𝐃𝐄 𝐅𝐄𝐄𝐃",FanCode
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/gdhz5mhnyu/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff2/cenc.mpd
+
+
