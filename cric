@@ -23,7 +23,7 @@ EXTINF:-1  tvg-logo="https://i.ibb.co/X2PNpbk/Astro-Cricket-2024.png" group-titl
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
 https://proxyastro.vercel.app/2504/default_primary.mpd
 
-#EXTINF:-1 tvg-id="S" tvg-logo="" group-title="Sports", Astro Cricket (VPN)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/X2PNpbk/Astro-Cricket-2024.png" group-title="𝐀𝐒𝐓𝐑𝐎", Astro Cricket (HD) (VPN)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Infinix X6812) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.125 Mobile Safari/537.36
