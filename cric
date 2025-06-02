@@ -1,27 +1,48 @@
-#EXTINF:-1 tvg-id="1260000035" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1200/sources/r1/cms/prod/7194/597194-h" group-title="𝐇𝐎𝐓𝐒𝐓𝐀𝐑 𝐋𝐈𝐕𝐄𝐅𝐄𝐄𝐃",Star Sports 1 HD
+#EXTINF:-1 tvg-id="1260000035" tvg-logo="https://spoo.me/jio" group-title="𝐇𝐎𝐓𝐒𝐓𝐀𝐑 𝐋𝐈𝐕𝐄𝐅𝐄𝐄𝐃",Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=fe7718fbb3fb4ba78c07cc0f578744e6&key=624e24b1843b459fab0a949609416f0d
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTHTTP:{"Origin": "https://www.hotstar.com", "Referer": "https://www.hotstar.com/", "User-Agent": "Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)"}
 https://star-sports-1.joker-verse.workers.dev/master.mpd|Origin="https://www.hotstar.com"&Referer="https://www.hotstar.com/"&User-Agent="Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)"
-#EXTINF:-1 tvg-id="1260000025" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1200/sources/r1/cms/prod/7198/597198-h" group-title="𝐇𝐎𝐓𝐒𝐓𝐀𝐑 𝐋𝐈𝐕𝐄𝐅𝐄𝐄𝐃",Star Sports 1 Hindi HD
+#EXTINF:-1 tvg-id="1260000025" tvg-logo="https://spoo.me/jio" group-title="𝐇𝐎𝐓𝐒𝐓𝐀𝐑 𝐋𝐈𝐕𝐄𝐅𝐄𝐄𝐃",Star Sports 1 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=fe7718fbb3fb4ba78c07cc0f578744e6&key=624e24b1843b459fab0a949609416f0d
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTHTTP:{"Origin": "https://www.hotstar.com", "Referer": "https://www.hotstar.com/", "User-Agent": "Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)"}
 https://star-sports-hindi-1.joker-verse.workers.dev/master.mpd|Origin="https://www.hotstar.com"&Referer="https://www.hotstar.com/"&User-Agent="Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)"
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/X2PNpbk/Astro-Cricket-2024.png" group-title="𝐀𝐒𝐓𝐑𝐎", Astro Cricket (SD)
+EXTINF:-1  tvg-logo="https://i.ibb.co/X2PNpbk/Astro-Cricket-2024.png" group-title="𝐀𝐒𝐓𝐑𝐎", Astro Cricket (SD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
-https://astrocribypaxx.vercel.app/2504/default_ott.mpd
+https://proxyastro.vercel.app/2504/default_ott.mpd
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/X2PNpbk/Astro-Cricket-2024.png" group-title="𝐀𝐒𝐓𝐑𝐎", Astro Cricket (HD)
+EXTINF:-1  tvg-logo="https://i.ibb.co/X2PNpbk/Astro-Cricket-2024.png" group-title="𝐀𝐒𝐓𝐑𝐎", Astro Cricket (HD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
-https://astrocribypaxx.vercel.app/2504/default_primary.mpd
+https://proxyastro.vercel.app/2504/default_primary.mpd
+
+#EXTINF:-1 tvg-id="S" tvg-logo="" group-title="Sports", Astro Cricket (VPN)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Infinix X6812) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.125 Mobile Safari/537.36
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDg3Nzk0NTgsImlzcyI6IlZSIiwiZXhwIjoxNzQ4ODE3MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMzQ2ODY5OTItYmYyYS00YzlhLWFiNTctODkxYWE3NmIwYjM4IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIiwicGF0dGVybiI6IjI1MDQifQ._PHraUyFNrX-r97kffvowc9P5QnQlTlvZE1KTT8Uw2k"}
+#KODIPROP:inputstream.adaptive.license_key=ffd1e696f9ab454c8d10d9c880c360e9:00b22ca27f39679d2add6e405f1804d0
+https://l02.dp.sooka.my/2504/linear/index.mpd
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/X2PNpbk/Astro-Cricket-2024.png" group-title="𝐀𝐒𝐓𝐑𝐎", Astro Cricket Plus (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=581698bd7d049a4877227553e2902410:e39e223d3679e533b8144a6241f794ba
+https://proxyastro.vercel.app/5117/default_primary.mpd
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/X2PNpbk/Astro-Cricket-2024.png" group-title="𝐀𝐒𝐓𝐑𝐎", Astro Cricket Plus (SD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=581698bd7d049a4877227553e2902410:e39e223d3679e533b8144a6241f794ba
+https://proxyastro.vercel.app/5117/default_ott.mpd
 
 
 ⭐️𝐏𝐀𝐊𝐈𝐒𝐓𝐀𝐍 𝐒𝐏𝐎𝐑𝐓𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋𝐒⭐️
@@ -51,10 +72,18 @@ https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd
 ■■𝐅𝐎𝐗 𝐒𝐏𝐎𝐑𝐓𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋𝐒■■
 
 #EXTINF:-1 tvg-id="FoxCricket.au" group-title="𝐅𝐎𝐗 𝐒𝐏𝐎𝐑𝐓𝐒 𝐀𝐔" tvg-logo="https://i.ibb.co/hJDsR3fW/images-3.jpg",Fox Cricket 501
-#EXTVLCOPT:http-origin=https://kisskissplay.cfd
-#EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium369/mono.m3u8
+http://xott.live:80/live/4477884848/445566/348210.ts
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=a2ba14ee5ef4440d8e56a8bb5403117d&key=b77a334fd7aff9c9960ca7785a20ea66
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://psplayflix.site/mpd/fox2/ps_manifest.mpd
+
+#https://a1xs.vip/700001
+EXTVLCOPT:http-origin=https://kisskissplay.cfd
+EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#https://ddy6new.newkso.ru/ddy6/premium369/mono.m3u8
 
 𝐒𝐎𝐍𝐘 𝐒𝐏𝐎𝐑𝐓𝐒
 
@@ -76,7 +105,7 @@ https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
 ***𝐖𝐖𝐄 𝐍𝐄𝐓𝐖𝐎𝐑𝐊***
 
-#EXTINF:-1 tvg-logo="https://image.24hsport.tv/tvs/117.png" group-title="𝐖𝐑𝐄𝐒𝐓𝐋𝐈𝐍𝐆",WWE Network
+#EXTINF:-1 tvg-logo="https://spoo.me/wwe" group-title="𝐖𝐑𝐄𝐒𝐓𝐋𝐈𝐍𝐆",WWE Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
@@ -84,6 +113,9 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/m
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="𝐖𝐑𝐄𝐒𝐓𝐋𝐈𝐍𝐆" tvg-chno="2890", TNA Wrestling
 https://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=239ff11a-b04d-11ef-ab24-ca24cbcdba3e
+
+#EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-logo="https://i.imgur.com/XO8u1V7.png" group-title="𝐖𝐑𝐄𝐒𝐓𝐋𝐈𝐍𝐆",Impact Wrestling
+https://d3mwqwqfak7y2q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/hls/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66b66b9e14a2bb000872f606/colorLogoPNG.png" group-title="𝐖𝐑𝐄𝐒𝐓𝐋𝐈𝐍𝐆" tvg-chno="2895", WOW – Women of Wrestling
 https://stitcher.pluto.tv/stitch/hls/channel/66b66b9e14a2bb000872f606/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=239ff11a-b04d-11ef-ab24-ca24cbcdba3e
@@ -145,7 +177,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 
 #EXTINF:-1 tvg-id="5df975e2b27cf5000921c102" tvg-name="beIN SPORTS XTRA" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="𝐁𝐄𝐈𝐍 𝐒𝐏𝐎𝐑𝐓𝐒" tvg-chno="2910", beIN SPORTS XTRA
-https://stitcher.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e1c7bf36-f63c-11ef-9d7f-ba2386732ca2
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 
 #############**𝐁𝐄𝐈𝐍 𝐀𝐌𝐀𝐙𝐎𝐍**###############
 
@@ -318,6 +350,12 @@ https://ott.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.m
 #KODIPROP:inputstream.adaptive.license_key=0c900a7eae0097e0977141b68c9bffc4:fa534e6d48eccf905a449051a5e280c8
 https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2dcwnlpgr/out/v1/0502dc73a24b43a79c042bf2d14f6b84/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/0b232373-fb80-4704-976f-ecefeaa377b6-width200-quality90.png" group-title="𝐃𝐀𝐙𝐍",DAZN Combat
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://spoo.me/dznn" group-title="𝐃𝐀𝐙𝐍",Dazn Ringside
+https://aegis-cloudfront-1.tubi.video/adc77f33-ab7b-4553-b886-a31d73b5be93/playlist.m3u8
+
 #EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=xraq62d8vawl19o8abgigmjib_image-header_pRow_1730196750000&quality=70" group-title="𝐃𝐀𝐙𝐍" , DAZN 1 ES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -343,3 +381,9 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/cqb
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 https://a201aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://spoo.me/jio" group-title="𝐇𝐎𝐓𝐒𝐓𝐀𝐑 𝐋𝐈𝐕𝐄𝐅𝐄𝐄𝐃" group-logo="https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png", Star Sports 2HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=fe7718fbb3fb4ba78c07cc0f578744e6&key=624e24b1843b459fab0a949609416f0d
+#EXTHTTP:{"Cookie": "hdntl=exp=1744946410~acl=*sshd2livetv*~id=1ed718710e54c04fb3d2c0023d22063b~data=hdntl~hmac=7565697d79c93f2258e223a26188f2942de773ecb68f2a94caf1ffb50f7f507e", "Origin": "https://www.hotstar.com", "Referer": "https://www.hotstar.com/", "User-Agent": "Hotstar;in.startv.hotstar/24.11.04.3.10658 (Android/13)"}
+https://sshd2livetvdash-i.akamaihd.net/dash/live/2002465-b/sshd2livetvwv/master.mpd
