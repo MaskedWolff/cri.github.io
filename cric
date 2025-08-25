@@ -11,13 +11,13 @@ https://star-sports-1.joker-verse.workers.dev/master.mpd|Origin="https://www.hot
 #EXTHTTP:{"Origin": "https://www.hotstar.com", "Referer": "https://www.hotstar.com/", "User-Agent": "Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)"}
 https://star-sports-hindi-1.joker-verse.workers.dev/master.mpd|Origin="https://www.hotstar.com"&Referer="https://www.hotstar.com/"&User-Agent="Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)"
 
-EXTINF:-1  tvg-logo="https://i.ibb.co/X2PNpbk/Astro-Cricket-2024.png" group-title="𝐀𝐒𝐓𝐑𝐎", Astro Cricket (SD)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/X2PNpbk/Astro-Cricket-2024.png" group-title="𝐀𝐒𝐓𝐑𝐎", Astro Cricket (SD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
 https://proxyastro.vercel.app/2504/default_ott.mpd
 
-EXTINF:-1  tvg-logo="https://i.ibb.co/X2PNpbk/Astro-Cricket-2024.png" group-title="𝐀𝐒𝐓𝐑𝐎", Astro Cricket (HD)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/X2PNpbk/Astro-Cricket-2024.png" group-title="𝐀𝐒𝐓𝐑𝐎", Astro Cricket (HD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
