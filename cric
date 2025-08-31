@@ -49,7 +49,8 @@ https://proxyastro.vercel.app/5117/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Qhs1jcocO2FenxF7j5DBVn-3lQV3cPhnsJCfeo3fAvEPzdsUx1RCb8Ka956B_ZEhAA8" group-title="𝐏𝐀𝐊 𝐒𝐏𝐎𝐑𝐓𝐒",A Sports (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
+http://103.122.252.100:8080/A-SPORTS/index.m3u8
+#http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wp5mVrHp/images-2.jpg" group-title="𝐏𝐀𝐊 𝐒𝐏𝐎𝐑𝐓𝐒", Geo Sports (SD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -58,7 +59,7 @@ http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 https://cors-proxy.cooks.fyi/https://live3.shoq.com.pk/live/eds/Geo_Super/DASH/Geo_Super.mpd
 
 #EXTINF:-1 tvg-id="PTV.Sports.pk" group-title="𝐏𝐀𝐊 𝐒𝐏𝐎𝐑𝐓𝐒" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ptv-sports.png",PTV Sports (SD)
-http://175.107.244.52:4457/play/a08g/index.m3u8
+http://103.122.252.100:8080/PTV-SPORTS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vB2YF5z/Ten-Sports-Logo.png" group-title="𝐏𝐀𝐊 𝐒𝐏𝐎𝐑𝐓𝐒",Ten Sports   
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
@@ -72,18 +73,7 @@ https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd
 ■■𝐅𝐎𝐗 𝐒𝐏𝐎𝐑𝐓𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋𝐒■■
 
 #EXTINF:-1 tvg-id="FoxCricket.au" group-title="𝐅𝐎𝐗 𝐒𝐏𝐎𝐑𝐓𝐒 𝐀𝐔" tvg-logo="https://i.ibb.co/hJDsR3fW/images-3.jpg",Fox Cricket 501
-http://xott.live:80/live/4477884848/445566/348210.ts
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=a2ba14ee5ef4440d8e56a8bb5403117d&key=b77a334fd7aff9c9960ca7785a20ea66
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://psplayflix.site/mpd/fox2/ps_manifest.mpd
-
-#https://a1xs.vip/700001
-EXTVLCOPT:http-origin=https://kisskissplay.cfd
-EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#https://ddy6new.newkso.ru/ddy6/premium369/mono.m3u8
+http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8
 
 𝐒𝐎𝐍𝐘 𝐒𝐏𝐎𝐑𝐓𝐒
 
@@ -142,14 +132,7 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 ###𝐓-𝐒𝐏𝐎𝐑𝐓𝐒 𝐍𝐄𝐓𝐖𝐎𝐑𝐊###
 
 #EXTINF:-1 tvg-id="1" tvg-name="T SPORTS 1" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQEkzy6nAcsyag/company-logo_200_200/company-logo_200_200/0/1630662269264?e=2147483647&v=beta&t=Xyxc5WJFZRKGMmHUyjXuUmOmYGO9bgGLbkwV9uyduxo" group-title="𝐓 𝐒𝐏𝐎𝐑𝐓𝐒",T SPORTS 1
-https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-name="T SPORTS 2" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQEkzy6nAcsyag/company-logo_200_200/company-logo_200_200/0/1630662269264?e=2147483647&v=beta&t=Xyxc5WJFZRKGMmHUyjXuUmOmYGO9bgGLbkwV9uyduxo" group-title="𝐓 𝐒𝐏𝐎𝐑𝐓𝐒 ",T SPORTS 2
-https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="3" tvg-name="T SPORTS 3" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQEkzy6nAcsyag/company-logo_200_200/company-logo_200_200/0/1630662269264?e=2147483647&v=beta&t=Xyxc5WJFZRKGMmHUyjXuUmOmYGO9bgGLbkwV9uyduxo" group-title="𝐓 𝐒𝐏𝐎𝐑𝐓𝐒",T SPORTS 3
-https://live.tsports.com/mobile_hls/tsports_live_3/playlist.m3u8
-
+http://103.122.252.100:8080/T-SPORTS/tracks-v1a1/mono.m3u8
 
 ##𝐁𝐄𝐈𝐍 𝐒𝐏𝐎𝐑𝐓𝐒##
 
@@ -321,33 +304,21 @@ https://m3u.ygxworld.in/p/Kzmixtq7LoWc/tp/1489/master.m3u8|User-Agent="Mozilla/5
 JIOSTAR
 
 #EXTINF:-1 tvg-id="ts78" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="𝐉𝐈𝐎𝐒𝐓𝐀𝐑",Star Sports 1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tpck.drmlive-01.workers.dev?id=78
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-http://103.168.18.83/tplay/get-mpd.php?id=78|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+http://103.122.252.100:8080/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="𝐉𝐈𝐎𝐒𝐓𝐀𝐑",Star Sports 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tpck.drmlive-01.workers.dev?id=235
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-http://103.168.18.83/tplay/get-mpd.php?id=235|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+http://103.122.252.100:8080/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://shorturl.at/G5GR9" group-title="𝐉𝐈𝐎𝐒𝐓𝐀𝐑",Star Sports 1 Hindi HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tpck.drmlive-01.workers.dev?id=24
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-http://103.168.18.83/tplay/get-mpd.php?id=24|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+
 
 #EXTINF:-1 tvg-id="STAR.SPORTS.1.HINDI.in" group-title="𝐉𝐈𝐎𝐒𝐓𝐀𝐑" tvg-logo="https://shorturl.at/G5GR9",Star Sports 1HD Hindi (ddlive)
 https://ddy6new.newkso.ru/ddy6/premium268/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
 
-#EXTINF:-1 group-title="𝐉𝐈𝐎𝐒𝐓𝐀𝐑" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png",Star Sports 2HD Hindi (jioserver)
+EXTINF:-1 group-title="𝐉𝐈𝐎𝐒𝐓𝐀𝐑" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png",Star Sports 2HD Hindi (jioserver)
 http://210.79.148.90:8090/live/1984.m3u8
 
-#EXTINF:-1 group-title="𝐉𝐈𝐎𝐒𝐓𝐀𝐑" tvg-logo="https://i.ibb.co/Q3SMSqhW/Black-Flat-Illustrative-Dent-Logo-20250317-143816-0000.png",Star Sports Hindi (jioserver) 
+EXTINF:-1 group-title="𝐉𝐈𝐎𝐒𝐓𝐀𝐑" tvg-logo="https://i.ibb.co/Q3SMSqhW/Black-Flat-Illustrative-Dent-Logo-20250317-143816-0000.png",Star Sports Hindi (jioserver) 
 http://210.79.148.90:8090/live/1998.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/Qk3G5k3/eurosp1.png" group-title="𝐄𝐔𝐑𝐎𝐒𝐏𝐎𝐑𝐓", EUROSPORT 1 
