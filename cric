@@ -77,20 +77,47 @@ http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8
 
 𝐒𝐎𝐍𝐘 𝐒𝐏𝐎𝐑𝐓𝐒
 
+#EXTINF:-1 tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="𝐒𝐎𝐍𝐘 𝐒𝐏𝐎𝐑𝐓𝐒", Sony TEN 1
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36", "Origin": "https://www.sonyliv.com", "Referer": "https://www.sonyliv.com/", "X-User-Agent": "OTT Navigator/1.7.2.2 (Linux;Android 11; en; 1nsjitl)"}
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=sony-ten-1&uid=5576160134&pass=29187283|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&X-User-Agent=OTT Navigator/1.7.2.2 (Linux;Android 11; en; 1nsjitl)
+
+#EXTINF:-1 tvg-id="1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="𝐒𝐎𝐍𝐘 𝐒𝐏𝐎𝐑𝐓𝐒", Sony TEN 2
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36", "Origin": "https://www.sonyliv.com", "Referer": "https://www.sonyliv.com/", "X-User-Agent": "OTT Navigator/1.7.2.2 (Linux;Android 11; en; 1nsjitl)"}
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=sony-ten-2&uid=5576160134&pass=29187283|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&X-User-Agent=OTT Navigator/1.7.2.2 (Linux;Android 11; en; 1nsjitl)
+
+#EXTINF:-1 tvg-id="1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="𝐒𝐎𝐍𝐘 𝐒𝐏𝐎𝐑𝐓𝐒", Sony TEN 3
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36", "Origin": "https://www.sonyliv.com", "Referer": "https://www.sonyliv.com/", "X-User-Agent": "OTT Navigator/1.7.2.2 (Linux;Android 11; en; 1nsjitl)"}
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=sony-ten-3&uid=5576160134&pass=29187283|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&X-User-Agent=OTT Navigator/1.7.2.2 (Linux;Android 11; en; 1nsjitl)
+
+#EXTINF:-1 tvg-id="1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="𝐒𝐎𝐍𝐘 𝐒𝐏𝐎𝐑𝐓𝐒", Sony TEN 4
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36", "Origin": "https://www.sonyliv.com", "Referer": "https://www.sonyliv.com/", "X-User-Agent": "OTT Navigator/1.7.2.2 (Linux;Android 11; en; 1nsjitl)"}
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=sony-ten-4&uid=5576160134&pass=29187283|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&X-User-Agent=OTT Navigator/1.7.2.2 (Linux;Android 11; en; 1nsjitl)
+
+#EXTINF:-1 tvg-id="1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="𝐒𝐎𝐍𝐘 𝐒𝐏𝐎𝐑𝐓𝐒", Sony TEN 5
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36", "Origin": "https://www.sonyliv.com", "Referer": "https://www.sonyliv.com/", "X-User-Agent": "OTT Navigator/1.7.2.2 (Linux;Android 11; en; 1nsjitl)"}
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=sony-ten-5&uid=5576160134&pass=29187283|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&X-User-Agent=OTT Navigator/1.7.2.2 (Linux;Android 11; en; 1nsjitl)
+
+SONY SPORTS HD
+
 #EXTINF:-1 tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="𝐒𝐎𝐍𝐘 𝐒𝐏𝐎𝐑𝐓𝐒", Sony TEN 1 HD
-https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36", "Origin": "https://www.sonyliv.com", "Referer": "https://www.sonyliv.com/", "X-User-Agent": "OTT Navigator/1.7.2.2 (Linux;Android 11; en; 1nsjitl)"}
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=sony-ten-1-hd&uid=5576160134&pass=29187283|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&X-User-Agent=OTT Navigator/1.7.2.2 (Linux;Android 11; en; 1nsjitl)
 
 #EXTINF:-1 tvg-id="1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="𝐒𝐎𝐍𝐘 𝐒𝐏𝐎𝐑𝐓𝐒", Sony TEN 2 HD
-https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36", "Origin": "https://www.sonyliv.com", "Referer": "https://www.sonyliv.com/", "X-User-Agent": "OTT Navigator/1.7.2.2 (Linux;Android 11; en; 1nsjitl)"}
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=sony-ten-2-hd&uid=5576160134&pass=29187283|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&X-User-Agent=OTT Navigator/1.7.2.2 (Linux;Android 11; en; 1nsjitl)
 
 #EXTINF:-1 tvg-id="1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="𝐒𝐎𝐍𝐘 𝐒𝐏𝐎𝐑𝐓𝐒", Sony TEN 3 HD
-https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36", "Origin": "https://www.sonyliv.com", "Referer": "https://www.sonyliv.com/", "X-User-Agent": "OTT Navigator/1.7.2.2 (Linux;Android 11; en; 1nsjitl)"}
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=sony-ten-2-hd&uid=5576160134&pass=29187283|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&X-User-Agent=OTT Navigator/1.7.2.2 (Linux;Android 11; en; 1nsjitl)
 
 #EXTINF:-1 tvg-id="1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="𝐒𝐎𝐍𝐘 𝐒𝐏𝐎𝐑𝐓𝐒", Sony TEN 4 HD
-https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36", "Origin": "https://www.sonyliv.com", "Referer": "https://www.sonyliv.com/", "X-User-Agent": "OTT Navigator/1.7.2.2 (Linux;Android 11; en; 1nsjitl)"}
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=sony-ten-4-hd&uid=5576160134&pass=29187283|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&X-User-Agent=OTT Navigator/1.7.2.2 (Linux;Android 11; en; 1nsjitl)
 
 #EXTINF:-1 tvg-id="1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="𝐒𝐎𝐍𝐘 𝐒𝐏𝐎𝐑𝐓𝐒", Sony TEN 5 HD
-https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36", "Origin": "https://www.sonyliv.com", "Referer": "https://www.sonyliv.com/", "X-User-Agent": "OTT Navigator/1.7.2.2 (Linux;Android 11; en; 1nsjitl)"}
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=sony-ten-5-hd&uid=5576160134&pass=29187283|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&X-User-Agent=OTT Navigator/1.7.2.2 (Linux;Android 11; en; 1nsjitl)
 
 
 ***𝐖𝐖𝐄 𝐍𝐄𝐓𝐖𝐎𝐑𝐊***
@@ -230,8 +257,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Y6xmLd4xDPtMxvm0OzQZbQ", "kid":"riaEW9MwOKnAd0oJgQBylA" } ], "type":"temporary" }
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=5deb190b1dac28e46c0bdada7668b7de:ddd2b372702e42b0d2708a70b91dec8d
+http://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/rdznpzcmct/out/v1/355324ed98a94cbebbaff4bad0cd28ce/cenc.mpd
 
 
 #EXTINF:-1 group-title="𝐓𝐍𝐓 𝐔𝐊", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-2-uk.png",TNT SPORTS 2
@@ -239,8 +266,8 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/o
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GqzgX1jY7e+Wl/1Sywn0QQ", "kid":"bRcIsYXGxNezdgBSDHzJPA" } ], "type":"temporary" }
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=0d9efa8287a52a2497a281f7a9012211:e4f832d372943014fe5c30928a90e547
+http://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 
 #EXTINF:-1 group-title="𝐓𝐍𝐓 𝐔𝐊", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-3-uk.png",TNT SPORTS 3
@@ -248,8 +275,8 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/o
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hqHtbpbKq46xAJ/lMNLPTw", "kid":"Tpk6qMHylfi5To6eb20L/g" } ], "type":"temporary" }
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=08efc7fb107981608f7b64db5ea62469:3a6844bc9f0d9d9fd962639d7e4eb76a
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
 
 #EXTINF:-1 group-title="𝐓𝐍𝐓 𝐔𝐊", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-4-uk.png",TNT SPORTS 4
@@ -257,8 +284,8 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/o
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lsXvaUeXMq5zT5YnSMGXKQ", "kid":"4xpagcr/XQfqJBGlcfwuWQ" } ], "type":"temporary" }
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=5ccdccf0818d3d9ff6c26076fc1153ac:f8d7fda7e3f11a29b346a37e98f749d4
+http://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 #EXTINF:-1 tvg-name="Willow Cricket HD" tvg-language="english" tvg-logo="https://p-img.movetv.com/cms/images/b7c5841c82ec21c38cd43815c7c49791ae3bcc56.png" group-title="𝐖𝐈𝐋𝐋𝐎𝐖 𝐒𝐏𝐎𝐑𝐓𝐒", Willow Cricket HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
