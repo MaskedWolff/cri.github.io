@@ -48,8 +48,8 @@ https://proxyastro.vercel.app/5117/default_ott.mpd
 ⭐️𝐏𝐀𝐊𝐈𝐒𝐓𝐀𝐍 𝐒𝐏𝐎𝐑𝐓𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋𝐒⭐️
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Qhs1jcocO2FenxF7j5DBVn-3lQV3cPhnsJCfeo3fAvEPzdsUx1RCb8Ka956B_ZEhAA8" group-title="𝐏𝐀𝐊 𝐒𝐏𝐎𝐑𝐓𝐒",A Sports (SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-http://103.122.252.100:8080/A-SPORTS/index.m3u8
+https://world-proxifier.xyz/daddylive/p/CJ2QGNJ5GYQXAFIZNNXXGEIAAUGQ/index.m3u8
+#http://103.122.252.100:8080/A-SPORTS/index.m3u8
 #http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wp5mVrHp/images-2.jpg" group-title="𝐏𝐀𝐊 𝐒𝐏𝐎𝐑𝐓𝐒", Geo Sports (SD)
@@ -72,7 +72,7 @@ https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd
 
 ■■𝐅𝐎𝐗 𝐒𝐏𝐎𝐑𝐓𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋𝐒■■
 
-#EXTINF:-1 tvg-id="FoxCricket.au" group-title="𝐅𝐎𝐗 𝐒𝐏𝐎𝐑𝐓𝐒 𝐀𝐔" tvg-logo="https://i.ibb.co/hJDsR3fW/images-3.jpg",Fox Cricket 501
+#EXTINF:-1 tvg-id="#FoxCricket.au" group-title="𝐅𝐎𝐗 𝐒𝐏𝐎𝐑𝐓𝐒 𝐀𝐔" tvg-logo="https://i.ibb.co/hJDsR3fW/images-3.jpg",Fox Cricket 501
 http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8
 
 𝐒𝐎𝐍𝐘 𝐒𝐏𝐎𝐑𝐓𝐒
