@@ -59,10 +59,13 @@ https://world-proxifier.xyz/daddylive/p/CJ2QGNJ5GYQXAFIZNNXXGEIAAUGQ/index.m3u8
 http://cors.tundracast.com:2000/https://live3.shoq.com.pk/live/eds/Geo_Super/DASH/Geo_Super.mpd
 
 #EXTINF:-1 tvg-id="PTV.Sports.pk" group-title="𝐏𝐀𝐊 𝐒𝐏𝐎𝐑𝐓𝐒" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ptv-sports.png",PTV Sports (SD)
-http://66.102.120.18:8000/play/a04w/index.m3u8
+http://cors.tundracast.com:2000/http://163.172.57.3/crc1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vB2YF5z/Ten-Sports-Logo.png" group-title="𝐏𝐀𝐊 𝐒𝐏𝐎𝐑𝐓𝐒",Ten Sports   
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+http://cors.tundracast.com:2000/http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://ibb.co/1Jbndtgz" group-title="𝐏𝐀𝐊 𝐒𝐏𝐎𝐑𝐓𝐒",PeoSports
+https://edge1-moblive.yuppcdn.net/drm/smil:peosports1drm.smil/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/18ggBsL/images.png" group-title="𝐏𝐀𝐊 𝐒𝐏𝐎𝐑𝐓𝐒",Ten Cricket (SD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
