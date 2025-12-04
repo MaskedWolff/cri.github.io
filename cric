@@ -15,7 +15,7 @@ https://star-sports-hindi-1.joker-verse.workers.dev/master.mpd|Origin="https://w
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
-https://proxyastro.vercel.app/2504/default_ott.mpd
+https://cricastro.vercel.app/2504/default_ott.mpd
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/X2PNpbk/Astro-Cricket-2024.png" group-title="𝐀𝐒𝐓𝐑𝐎", Astro Cricket (HD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
