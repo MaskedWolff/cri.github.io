@@ -309,27 +309,12 @@ https://sling.joker-verse.workers.dev/spanning_ads.mpd?id=797|user-agent="Mozill
 #KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=1779c27b9d077a3ba0c9cc1bb9a94b9f&key=cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTHTTP:{"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"}
-https://a170aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+https://a170aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" 
 
-#EXTINF:-1 tvg-id="ts78" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="𝐒𝐓𝐀𝐑 𝐒𝐏𝐎𝐑𝐓𝐒",Star Sports 1 HD
-https://m3u.ygxworld.in/p/Kzmixtq7LoWc/tp/78/master.m3u8|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36"&Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
-#EXTINF:-1 tvg-id="ts235" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="𝐒𝐓𝐀𝐑 𝐒𝐏𝐎𝐑𝐓𝐒",Star Sports 2 HD
-https://m3u.ygxworld.in/p/Kzmixtq7LoWc/tp/235/master.m3u8|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36"&Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
-#EXTINF:-1 tvg-id="ts24" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="𝐒𝐓𝐀𝐑 𝐒𝐏𝐎𝐑𝐓𝐒",Star Sports 1 Hindi HD
-https://m3u.ygxworld.in/p/Kzmixtq7LoWc/tp/24/master.m3u8|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36"&Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="𝐒𝐓𝐀𝐑 𝐒𝐏𝐎𝐑𝐓𝐒",Star Sports Select 1 HD
-https://m3u.ygxworld.in/p/Kzmixtq7LoWc/tp/246/master.m3u8|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36"&Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
-#EXTINF:-1 tvg-id="ts463" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="𝐒𝐓𝐀𝐑 𝐒𝐏𝐎𝐑𝐓𝐒",Star Sports Select 2 HD
-https://m3u.ygxworld.in/p/Kzmixtq7LoWc/tp/463/master.m3u8|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36"&Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
-
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=159a2b4e1d2d7f16892d35d935a2fb34:07809840dd0f511221ca78459167d1b3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zWTz0Pxb/images.png" group-title="𝐅𝐀𝐍𝐂𝐎𝐃𝐄 𝐋𝐈𝐕𝐄𝐅𝐄𝐄𝐃",FanCode Livefeed 1
-https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/gdhz5mhnyu/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff2/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zWTz0Pxb/images.png" group-title="𝐅𝐀𝐍𝐂𝐎𝐃𝐄 𝐋𝐈𝐕𝐄𝐅𝐄𝐄𝐃", FanCode Livefeed 2
-https://m3u.ygxworld.in/p/Kzmixtq7LoWc/tp/1489/master.m3u8|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36"&Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
+https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
 JIOSTAR
 
@@ -412,13 +397,17 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/wjg
 #EXTHTTP:{"Cookie": "hdntl=exp=1744946410~acl=*sshd2livetv*~id=1ed718710e54c04fb3d2c0023d22063b~data=hdntl~hmac=7565697d79c93f2258e223a26188f2942de773ecb68f2a94caf1ffb50f7f507e", "Origin": "https://www.hotstar.com", "Referer": "https://www.hotstar.com/", "User-Agent": "Hotstar;in.startv.hotstar/24.11.04.3.10658 (Android/13)"}
 https://sshd2livetvdash-i.akamaihd.net/dash/live/2002465-b/sshd2livetvwv/master.mpd
 
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png" group-title="TrueVision",BeinSport1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/CHbein1.m3u8
 
-*CRIC LIFE*
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/starzplay.png" group-title="CRIC LIFE",StarzPlay CricLife 1 HD
-https://world-proxifier.xyz/daddylive/p/AAQTCNZICQ4TCPDSBA3TAUT6LJJFKEABCANRC4DPPBSGO2DR/index.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png" group-title="TrueVision",BeinSport2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/19bein2.m3u8
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/starzplay.png" group-title="CRIC LIFE",StarzPlay CricLife 2 HD
-https://world-proxifier.xyz/daddylive/p/AAQTCNZICQ4TCPDSBA3TAUT6LJJFKEACCANRC4DPPBSGO2DW/index.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/starzplay.png" group-title="CRIC LIFE",StarzPlay CricLife 3 HD
-https://world-proxifier.xyz/daddylive/p/AAQTCNZICQ4TCPDSBA3TAUT6LJJFKEADCANRC4DPPBSGO2DX/index.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png" group-title="TrueVision",BeinSport3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/19bein3.m3u8
