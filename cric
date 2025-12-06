@@ -401,12 +401,10 @@ https://sshd2livetvdash-i.akamaihd.net/dash/live/2002465-b/sshd2livetvwv/master.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/CHbein1.m3u8
-
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png" group-title="TrueVision",BeinSport2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/19bein2.m3u8
-
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png" group-title="TrueVision",BeinSport3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
